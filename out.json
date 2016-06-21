@@ -1,0 +1,1 @@
+{"dst" : "2.1.2.2 tertgb  set s sag ", "DeviceProduct" : "threatmanager", "Name" : "worm successfully stopped", "SignatureID" : "100", "DeviceVersion" : "1.0", "src" : "10.0.0.1", "CEFVersion" : "Sep 19 08:26:10 host CEF:0", "DeviceVendor" : "Security", "spt" : 1232.0, "Severity" : "10"}
