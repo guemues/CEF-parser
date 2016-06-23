@@ -6,7 +6,7 @@ import scala.util.parsing.json._
 /**
   * Created by guemues on 17/06/16.
   */
-class Parser {
+class CEFParser {
 
   // Keys are predefined
   val KEYS = List(
